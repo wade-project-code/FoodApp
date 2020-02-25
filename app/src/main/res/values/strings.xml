@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FoodAPP</string>
+    <string name="url">https://data.coa.gov.tw/Service/OpenData/ODwsv/ODwsvTravelFood.aspx</string>
+    <string name="logo_text">農村地方美食</string>
+    <string name="login">進入</string>
+    <string name="SP_HISTORY">history</string>
+    <string name="HISTORY_BEAN">HistoryBean</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">首頁</string>
+    <string name="search">搜尋</string>
+    <string name="history">歷史紀錄</string>
+    <string name="about">我的</string>
+    <string name="BottomNavigationViewBehavior">com.wade.foodapp.BottomNavigationViewBehavior</string>
+    <string name="food_name">名稱</string>
+    <string name="food_address">地址</string>
+    <string name="food_tel">電話</string>
+    <string name="food_feature">美食特色</string>
+    <string name="foodbean">FoodBean</string>
+    <string name="food_map">地圖</string>
+    <string name="open_data_content">主要使用行政院農業委員會資料開放平台(Open Data)來進行資料串接與使用\n\n開發者:Wade</string>
+</resources>
