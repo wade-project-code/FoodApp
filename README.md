@@ -8,3 +8,5 @@ recyclerview來顯示資料</br>
 FloatingActionButton進行recyclerview顯示切換</br>
 BottomNavigationView製作底部導覽列</br>
 SharedPreferences製作歷史紀錄</br>
+地圖座標導航</br>
+撥打電話</br>
